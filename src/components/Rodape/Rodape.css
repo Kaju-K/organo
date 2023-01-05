@@ -1,0 +1,15 @@
+.footer {
+    background-color: #6278F7;
+    background-image: url("../../../public/img/fundo.png");
+    background-repeat: no-repeat;
+    color: white;
+    padding: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer .redes-sociais {
+    display: flex;
+    gap: 32px
+}
